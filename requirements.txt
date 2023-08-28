@@ -1,0 +1,7 @@
+numpy
+padas
+tqdm
+seaborn
+xgboost
+scikit-learn
+imbalanced-learn
